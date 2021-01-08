@@ -1,0 +1,4 @@
+2021-01-04 00:00:14.132 INFO [MetricWriter] New metric file created: ./logs/robot2-picture-metrics.log.2021-01-04
+2021-01-04 00:00:14.134 INFO [MetricWriter] New metric index file created: ./logs/robot2-picture-metrics.log.2021-01-04.idx
+2021-01-04 21:35:16.206 INFO Add child </master-status> to node <sentinel_web_servlet_context>
+2021-01-04 21:39:26.124 INFO Add child </api.php/provide/vod_xml> to node <sentinel_web_servlet_context>

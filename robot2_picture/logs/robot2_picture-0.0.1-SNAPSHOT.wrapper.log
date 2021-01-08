@@ -1,0 +1,4 @@
+2020-12-31 15:55:55,485 DEBUG - Starting WinSW in service mode
+2020-12-31 15:55:55,512 INFO  - Starting java  -Dfile.encoding=UTF-8 -jar "robot2_picture-0.0.1-SNAPSHOT.jar"
+2020-12-31 15:55:55,538 INFO  - Started process 6468
+2020-12-31 15:55:55,544 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender

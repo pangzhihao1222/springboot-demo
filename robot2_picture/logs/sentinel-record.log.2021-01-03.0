@@ -1,0 +1,3 @@
+2021-01-03 00:00:14.903 INFO [MetricWriter] New metric file created: ./logs/robot2-picture-metrics.log.2021-01-03
+2021-01-03 00:00:14.906 INFO [MetricWriter] New metric index file created: ./logs/robot2-picture-metrics.log.2021-01-03.idx
+2021-01-03 09:00:00.054 INFO Add child </picture/delete> to node <sentinel_web_servlet_context>

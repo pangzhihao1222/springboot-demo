@@ -1,0 +1,13 @@
+<service>
+  <id>PictureService</id>
+  <name>PictureService</name>
+  <description>This service runs PictureService project.</description>
+  <executable>java</executable>
+  <arguments>-jar "robot2_picture-0.0.1-SNAPSHOT.jar"</arguments>
+  <startargument>-Dfile.encoding=UTF-8</startargument>
+		<logpath>D:\robot2_picture\logs</logpath>
+      <log mode="roll-by-size">
+          <sizeThreshold>10240</sizeThreshold>
+          <keepFiles>8</keepFiles>
+      </log>
+</service>

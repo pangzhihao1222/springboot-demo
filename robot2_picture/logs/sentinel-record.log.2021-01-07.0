@@ -1,0 +1,11 @@
+2021-01-07 00:00:04.813 INFO [MetricWriter] Removing metric file: D:\robot2_picture\.\logs\robot2-picture-metrics.log.2021-01-01
+2021-01-07 00:00:04.815 INFO [MetricWriter] Removing metric index file: D:\robot2_picture\.\logs\robot2-picture-metrics.log.2021-01-01.idx
+2021-01-07 00:00:04.816 INFO [MetricWriter] New metric file created: ./logs/robot2-picture-metrics.log.2021-01-07
+2021-01-07 00:00:04.816 INFO [MetricWriter] New metric index file created: ./logs/robot2-picture-metrics.log.2021-01-07.idx
+2021-01-07 03:55:08.476 INFO Add child </system_api.php> to node <sentinel_web_servlet_context>
+2021-01-07 03:55:10.875 INFO Add child </c/version.js> to node <sentinel_web_servlet_context>
+2021-01-07 03:55:13.351 INFO Add child </streaming/clients_live.php> to node <sentinel_web_servlet_context>
+2021-01-07 03:55:15.776 INFO Add child </stalker_portal/c/version.js> to node <sentinel_web_servlet_context>
+2021-01-07 03:55:18.431 INFO Add child </client_area/> to node <sentinel_web_servlet_context>
+2021-01-07 03:55:20.847 INFO Add child </stalker_portal/c/> to node <sentinel_web_servlet_context>
+2021-01-07 22:22:01.336 INFO Add child </favicon.ico> to node <sentinel_web_servlet_context>
